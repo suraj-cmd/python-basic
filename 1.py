@@ -1,12 +1,5 @@
-import unittest
- 
-class Test(unittest.testcase):
-
-    def setup(self):
-        pass
-
-    def test(self):
-       self.assertequal( 'a'*4, 'aaaa')
-
-if __name__ == '__main__':
-    unittest.main()
+#!/usr/bin/env python3
+name = input("enter file naem:")
+f = open(name)
+print(f.read())
+f.close()
