@@ -9,6 +9,9 @@ class TestCalc(unittest.TestCase):
     def test_sub(self):
         result = calc.sub(100,50)
         self.assertEqual(result,50)
+    def test_sub(self):
+        result = calc.multi(10,50)
+        self.assertEqual(result,50)
 
 if __name__ == '__main__':
     unittest.main()
