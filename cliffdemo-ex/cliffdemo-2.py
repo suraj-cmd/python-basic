@@ -1,4 +1,3 @@
-cat name.py 
 import logging
 import sys
 from cliff.command import Command
