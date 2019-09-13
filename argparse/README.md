@@ -1,4 +1,4 @@
-t# Project
+# Project
 Argparser CLI
 
 # Example
