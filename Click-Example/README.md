@@ -1,4 +1,4 @@
-`Task`
+#Project
 
 `Design a CLI tool which should print firstname, lastname and given name itself from the given input.`
 
