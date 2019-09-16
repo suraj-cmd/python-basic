@@ -1,5 +1,6 @@
 # Project
-Argparser CLI
+Argparser CLI Command line tool
 
 # Example
-`python3 [file-name] [argument]`
+`python command-line.py [name]`
+`it will print the message`
