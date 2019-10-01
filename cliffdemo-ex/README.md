@@ -1,5 +1,5 @@
-# Project Title
-cliff is a framework for building command line programs. It uses plugins to define sub-commands, output formatters, and other extensions.
+# Introduction
+cliff is a framework for parsing command line arguments and building CMD tools. It uses plugins to define sub-commands, output formatters, and other extensions.
 
 ### Prerequisites
 ```
